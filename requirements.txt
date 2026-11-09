@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+pymongo
+python-dotenv
+sentence-transformers
+ollama
+pypdf
+chromadb
